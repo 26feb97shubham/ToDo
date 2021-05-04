@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="welcome_to_todo_notes_app">Welcome to ToDo Notes App</string>
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_content">Enter content</string>
+    <string name="pleaseEnterTitle">Please enter title</string>
+    <string name="pleaseEnterContent">Please enter content</string>
+    <string name="viewOrEditTodo">View/Edit Todo</string>
+    <string name="createTodo">Create Todo</string>
+</resources>
